@@ -15,7 +15,7 @@
               "react-basic": ">=17.0.0 <18.0.0"
             },
             {
-              "react-basic-hooks": ">=8.2.0 <9.0.0"
+              "react-basic-hooks": ">=8.2.0 <10.0.0"
             }
           ]
         },
