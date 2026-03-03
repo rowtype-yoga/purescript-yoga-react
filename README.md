@@ -83,3 +83,4 @@ This is safe because React components should only be created once at module init
 ## License
 
 WTFPL
+
